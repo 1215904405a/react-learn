@@ -1,2 +1,7 @@
 参考： https://github.com/lcxfs1991/blog/issues/8
+
+官方diff 算法解读: 
+https://blog.csdn.net/baiyu753159/article/details/71545762
+https://reactjs.org/docs/reconciliation.html#the-diffing-algorithm
+
 后续在细节
