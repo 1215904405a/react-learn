@@ -5,3 +5,8 @@ https://blog.csdn.net/baiyu753159/article/details/71545762
 https://reactjs.org/docs/reconciliation.html#the-diffing-algorithm
 
 后续在细节
+
+1、不能有jsx内联函数，每次render实例化
+2、react.memo(),针对函数组价一个记忆，数据没有变化，不重新渲染
+3、纯组件针对class组件渲染优化
+4、immutable
