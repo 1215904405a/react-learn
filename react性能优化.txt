@@ -10,3 +10,5 @@ https://reactjs.org/docs/reconciliation.html#the-diffing-algorithm
 2、react.memo(),针对函数组价一个记忆，数据没有变化，不重新渲染
 3、纯组件针对class组件渲染优化
 4、immutable
+
+代码拆分：import() require.ensure()依赖promise
